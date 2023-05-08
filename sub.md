@@ -1,5 +1,14 @@
 # 10 days internship
-**bold text**
+ ## 10 days internship ##
+*10 days internship*
+**10 days internship**
 >is name rocky
-'code'
-[title](https:www.sks.com
+'10 days internship'
+
+[title](https:www.10daysinternship.com)
+
+
+```
+
+badx
+dabx
